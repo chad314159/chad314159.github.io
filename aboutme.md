@@ -1,8 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The Essentials
 ---
+
+##Work: Since February 2018, I have been working as a consultant for the Federal Government specializing in cyber analytics and machine learning. Prior to that, I worked at Booz Allen Hamilton as a Software Engineer/Data Scientist supporting the (National Geospatial-Intelligence Agency)[https://www.nga.mil/Pages/Default.aspx]
+
+##Education:
+
+##Hobbies:
 
 My name is Inigo Montoya. I have the following qualities:
 
