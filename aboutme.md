@@ -4,19 +4,16 @@ title: About me
 subtitle: The Essentials
 ---
 
-**Work:** Since February 2018, I have been working as a consultant for the Federal Government specializing in cyber analytics and machine learning. Prior to that, I worked at Booz Allen Hamilton as a Software Engineer/Data Scientist supporting the [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx)
+**Work:** Since February 2018, I have been working as a consultant for the Federal Government specializing in cyber analytics and machine learning. Prior to that, I worked at Booz Allen Hamilton on two separate stints: as a Software Engineer/Data Scientist supporting the [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx) (2017-2018) and as a Data Scientist supporting various organizations within the [Department of Defense](https://www.defense.gov/) (2013-2015). I have also worked as a Data Scientist at [Novetta Solutions](www.novetta.com) (2015-2017), an Operations Research Analyst at [SRA International](https://www.linkedin.com/company/sra-international/) (2013-2015) and [BAE Systems](https://www.baesystems.com/en/home) (2011-2013). Finally, I was active-duty in the [US Army](https://www.army.mil) from 2002-2008.
 
-**Education:**
+**Education:** I hold a Masters in Information Systems from [Carnegie Mellon University](https://www.cmu.edu), a Masters in System Engineering from [Penn State University](https://www.psu.edu) and a Bachelors in Mathematics from [Juniata College](https://www.juniata.edu).
+
+**Certifications:** I have the following certifications: 
+- Project Management Professional
+- Security +
+- Certified Ethical Hacker
 
 **Hobbies:**
 
-My name is Inigo Montoya. I have the following qualities:
+### my travels
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
