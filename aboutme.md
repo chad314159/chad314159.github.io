@@ -4,7 +4,8 @@ title: About me
 subtitle: The Essentials
 ---
 
-##Work: Since February 2018, I have been working as a consultant for the Federal Government specializing in cyber analytics and machine learning. Prior to that, I worked at Booz Allen Hamilton as a Software Engineer/Data Scientist supporting the [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx)
+## Work: 
+Since February 2018, I have been working as a consultant for the Federal Government specializing in cyber analytics and machine learning. Prior to that, I worked at Booz Allen Hamilton as a Software Engineer/Data Scientist supporting the [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx)
 
 ## Education:
 
