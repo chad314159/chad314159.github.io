@@ -8,12 +8,13 @@ subtitle: The Essentials
 
 **Education:** I hold a Masters in Information Systems from [Carnegie Mellon University](https://www.cmu.edu), a Masters in System Engineering from [Penn State University](https://www.psu.edu) and a Bachelors in Mathematics from [Juniata College](https://www.juniata.edu).
 
-**Certifications:** I have the following certifications: 
-- Project Management Professional
-- Security +
-- Certified Ethical Hacker
-
-**Hobbies:**
-
-### my travels
+**Certifications:** I have the following credentials: 
+- Project Management Professional (active)
+- Security+ (active)
+- Certified Ethical Hacker (active)
+- Tableau Fundamentals (course)
+- R Programming (course @ John Hopkins)
+- AWS Solutions Architect (course)
+- AWS Advanced Solutions Architect (course)
+- AWS Big Data Speciality (course)
 
