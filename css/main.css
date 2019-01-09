@@ -174,8 +174,7 @@ img {
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
-/*   left: 55px; */
-  left: 70px;
+  left: 55px;
   width: 50px;
   margin-top: -25px;
 }
@@ -189,7 +188,7 @@ img {
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 .navbar-custom .avatar-container  .avatar-img {
-  width: 100%;
+  width: 120%;
   border-radius: 50%;
   display: block;
 }
@@ -212,7 +211,7 @@ img {
   }
 
   .navbar-custom .avatar-container  .avatar-img {
-    width: 120%;
+    width: 100%;
   }
 }
 
