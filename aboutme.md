@@ -25,7 +25,7 @@ Python &bull; Scala &bull; Java &bull; Javascript &bull;
 
 #### <i class="fa fa-terminal" aria-hidden="true"></i> Operating Systems
 
-macOS &bull; &bull; CentOS *(and other Red Hat Enterprise Linux derivatives)* &bull; ubuntu
+macOS &bull; CentOS *(and other Red Hat Enterprise Linux derivatives)* &bull; ubuntu
 
 #### <i class="fa fa-cloud" aria-hidden="true"></i> Cloud Orchestration and Automation
 
