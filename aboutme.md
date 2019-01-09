@@ -35,7 +35,7 @@ AWS &bull; Cloud Foundry
 
 #### <i class="fa fa-gear" aria-hidden="true"></i> General Software
 
-#Notepad++ &bull; TextWrangler &bull; VSCode &bull; git SCM &bull; Tableau &bull; R &bull; MetaSploit 
+Notepad++ &bull; Wireshark &bull; Neo4j &bull; git SCM &bull; Tableau &bull; R &bull; MetaSploit 
 
 ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
 Since February 2018, I have been working as a consultant for the Federal Government specializing in cyber analytics and machine learning. Prior to that, I worked at Booz Allen Hamilton on two separate stints: as a Software Engineer/Data Scientist supporting the [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx) (2017-2018) and as a Data Scientist supporting various organizations within the [Department of Defense](https://www.defense.gov/) (2013-2015). I have also worked as a Data Scientist at [Novetta Solutions](www.novetta.com) (2015-2017), an Operations Research Analyst at [SRA International](https://www.linkedin.com/company/sra-international/) (2013-2015) and [BAE Systems](https://www.baesystems.com/en/home) (2011-2013). Finally, I was active-duty in the [US Army](https://www.army.mil) from 2002-2008.
