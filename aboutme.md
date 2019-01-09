@@ -14,9 +14,7 @@ Take a look at this [Projects]() page to get an overview of my current work.
 
 ### <i class="fa fa-heart" aria-hidden="true"></i> Favorite Topics
 
-Besides I'm very interested in **PowerShell**, **DevOps**, **Phabricator** and **Software Engineering** in general. I love
-exploring [Github](https://github.com/){:target="_blank"}, [Stackoverflow](https://stackoverflow.com/){:target="_blank"} or [Powershell.org](https://powershell.org/){:target="_blank"}
-and discovering new stuff.
+I'm very interested in **cyber analytics**, **machine learning**, **mathematics**, and in general, **automation**. I enjoy participating in [Kaggle](https://kaggle.com){:target="_blank"} competitions, Spark + AI Summit, and hackathons! Outside of the technology domain, I enjoy  cheering for any and all Pittsburgh sports teams, working out, hiking with my two dogs, and traveling.
 
 ### <i class="fa fa-cubes" aria-hidden="true"></i> Skills
 *Here comes a list of subjects I've worked with, grouped by topics...*
