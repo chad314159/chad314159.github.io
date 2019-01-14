@@ -21,7 +21,7 @@ I'm very interested in **cyber analytics**, **machine learning**, **mathematics*
 
 #### <i class="fa fa-code" aria-hidden="true"></i> Scripting and Programming Languages
 
-Python &bull; Scala &bull; Java &bull; Javascript &bull;
+Python &bull; Scala &bull; Java &bull; Javascript
 
 #### <i class="fa fa-terminal" aria-hidden="true"></i> Operating Systems
 
@@ -33,10 +33,10 @@ AWS &bull; Cloud Foundry
 
 #### <i class="fa fa-gear" aria-hidden="true"></i> General Software
 
-Notepad++ &bull; Wireshark &bull; Neo4j &bull; git SCM &bull; Tableau &bull; R &bull; MetaSploit 
+Jupyter Notebook &bull; Notepad++ &bull; Wireshark &bull; Neo4j &bull; git SCM &bull; Tableau &bull; R &bull; MetaSploit 
 
 ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
-Since February 2018, I have been working as a consultant for the Federal Government specializing in cyber analytics and machine learning. Prior to that, I worked at Booz Allen Hamilton on two separate stints: as a Software Engineer/Data Scientist supporting the [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx) (2017-2018) and as a Data Scientist supporting various organizations within the [Department of Defense](https://www.defense.gov/) (2013-2015). I have also worked as a Data Scientist at [Novetta Solutions](https://www.novetta.com) (2015-2017), an Operations Research Analyst at [SRA International](https://www.linkedin.com/company/sra-international/) (2013-2015) and [BAE Systems](https://www.baesystems.com/en/home) (2011-2013). Finally, I was active-duty in the [US Army](https://www.army.mil) from 2002-2008.
+Since February 2018, I have been working as a consultant for the Federal Government specializing in cyber analytics and machine learning. Prior to that, I worked at Booz Allen Hamilton on two separate stints: as a Software Engineer/Data Scientist supporting the [National Geospatial-Intelligence Agency](https://www.nga.mil/Pages/Default.aspx) (2017-2018) and as a Data Scientist supporting various organizations within the [Department of Defense](https://www.defense.gov/) (2014-2015). I have also worked as a Data Scientist at [Novetta Solutions](https://www.novetta.com) (2015-2017), an Operations Research Analyst at [SRA International](https://www.linkedin.com/company/sra-international/) (2012-2014) and [BAE Systems](https://www.baesystems.com/en/home) (2010-2012). Finally, I was active-duty in the [US Army](https://www.army.mil) from 2002-2008.
 
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
