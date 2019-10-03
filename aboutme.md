@@ -4,8 +4,8 @@ title: About me
 subtitle: The Essentials
 ---
 
-<i class="fa fa-address-card" aria-hidden="true"></i> Greetings! My name is Chad Davis and I currently live in North-Central Pennsylvania in a town called
-[Wellsboro](https://goo.gl/maps/WpjbamYEbSk){:target="_blank"}.
+<i class="fa fa-address-card" aria-hidden="true"></i> Greetings! My name is Chad Davis and I currently live in
+[Pittsburgh, PA](https://goo.gl/maps/1BwCiACL3dWoe9P6A){:target="_blank"}.
 
 
 ### <i class="fa fa-terminal" aria-hidden="true"></i> Projects
