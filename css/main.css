@@ -241,11 +241,17 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 30px 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: #F5F5F5;
+  border-top: 1px #EAEAEA solid;
+  font-size: 14px;
+/*   padding: 30px 0;
   background: #F5F5F5;
   border-top: 1px #EAEAEA solid;
   margin-top: 35px;
-  font-size: 14px;
+  font-size: 14px; */
 }
 
 footer a {
